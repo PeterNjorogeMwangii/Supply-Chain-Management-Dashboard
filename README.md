@@ -3,10 +3,10 @@
 ## Project Overview
 This repository contains a Power BI project focused on Supply Chain Management in the Automotive Industry. The project provides an in-depth analysis of sales performance, customer behavior, and shipping efficiency. The dashboard is built to help stakeholders make data-driven decisions to optimize operations and improve overall business performance.
 
-Project Architecture
+## Project Architecture
 The project follows a streamlined architecture that ensures data flows seamlessly from acquisition to visualization. Below is a summary of the architecture:
 
-Data Source: Kaggle
+## Data Source: Kaggle
 
 The raw data is sourced from Kaggle, which contains various datasets related to the automotive industry.
 Data Processing: Python
@@ -22,7 +22,7 @@ End User Access: Dashboard
 
 The final dashboards are shared with stakeholders through the Power BI service, allowing real-time access to the insights.
 
-Features
+## Features
 Sales Performance Analysis: Visualizes total sales, discounts, and trends across different time periods.
 Customer Analysis: Provides insights into customer feedback, demographics, and preferences.
 Shipping Efficiency: Compares different shipping modes and their impact on total sales.
