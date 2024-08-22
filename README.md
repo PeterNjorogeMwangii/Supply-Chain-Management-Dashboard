@@ -24,5 +24,7 @@ The final dashboards are shared with stakeholders through the Power BI service, 
 
 ## Features
 Sales Performance Analysis: Visualizes total sales, discounts, and trends across different time periods.
+
 Customer Analysis: Provides insights into customer feedback, demographics, and preferences.
+
 Shipping Efficiency: Compares different shipping modes and their impact on total sales.
